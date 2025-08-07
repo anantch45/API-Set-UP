@@ -1,0 +1,14 @@
+{
+  "name": "book-rest-api",
+  "version": "1.0.0",
+  "description": "A simple REST API to manage books using Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ANANT KUMAR",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
